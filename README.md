@@ -6,9 +6,9 @@ https://github.com/WieeRd/KoreanNumber
 
 Mismatch at
 
-1000000176022: 일조영억일십칠만육천이십이
+1000000000104: 일조억만일백사
 
-1000000176023: 일조영억일십칠만육천이십삼
+1000000000252: 일조억만이백오십이
 
 
 i don't know how to tell him, so i edited the code and upload here
