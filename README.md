@@ -2,8 +2,10 @@
 
 WieeRd created this function. But threre were several issues.
 
-Mismatch at 
+Mismatch at
+
 1000000176022: 일조영억일십칠만육천이십이
+
 1000000176023: 일조영억일십칠만육천이십삼
 
 
