@@ -9,7 +9,7 @@ Mismatch at
 1000000176023: 일조영억일십칠만육천이십삼
 
 
-i don't know how to tell him, so i edit code and publish here
+i don't know how to tell him, so i edited the code and upload here
 
 
 #Usage
