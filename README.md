@@ -1,5 +1,4 @@
 # num_to_korean
-change int num to Korean
 
 WieeRd created this function. But threre were several issues.
 
