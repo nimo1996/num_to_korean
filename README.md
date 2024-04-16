@@ -2,6 +2,8 @@
 
 WieeRd created this function. But threre were several issues.
 
+https://github.com/WieeRd/KoreanNumber
+
 Mismatch at
 
 1000000176022: 일조영억일십칠만육천이십이
