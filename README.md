@@ -11,9 +11,6 @@ Mismatch at
 1000000000252: 일조억만이백오십이
 
 
-i don't know how to tell him, so i edited the code and upload here
-
-
 #Usage
 
 ```python
